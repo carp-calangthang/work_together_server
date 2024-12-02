@@ -1,0 +1,24 @@
+{
+  "name": "working_together_server",
+  "version": "1.0.0",
+  "description": "Listen to music and talk, text with friends",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "radio"
+  ],
+  "author": "calangthang",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  }
+}
